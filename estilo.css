@@ -28,3 +28,44 @@ section{
     align-items: center;
 }
   
+.fondo-imagen{
+    background-image: url(img/ba1.jpg);
+    background-size: cover;
+}
+
+.contenedor {
+    position: relative;
+    background-image: url(img/ba1.jpg);
+    width: 100%;
+    height: 150%;
+    color: aliceblue;
+    text-align: end;
+    padding-top: 25%;
+    padding-bottom: 8%;
+  }
+
+  .bottomright {
+    position: absolute;
+    bottom: 80px;
+    right: 16px;
+    font-size: 18px;
+    color: aliceblue;
+  }
+
+  img {
+    width: 50%%;
+    height: auto;
+    opacity: 0.8;
+
+  }
+  .recordatorio{
+    margin-left: 20%;
+  }
+    
+    .form-label{
+    ;
+  }
+
+  .pie{
+    background-color: rgb(39, 78, 104);
+  }
