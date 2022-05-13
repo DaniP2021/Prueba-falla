@@ -61,7 +61,7 @@ section {
 
 
 img {
-  width: 50%%;
+  width: 50%;
   height: auto;
   opacity: 0.8;
 
@@ -79,7 +79,7 @@ img {
 }
 
 #grad1 {
-  background-color: ;
+  background-color:lightgray ;
 }
 
 .pizarra {
@@ -94,4 +94,8 @@ img {
 .encabezado {
 
   background-color: rgb(58, 56, 66);
+}
+
+#inputTotal{
+  background-color: lightgrey;
 }
