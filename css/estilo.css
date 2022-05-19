@@ -45,12 +45,12 @@ section {
 
 .contenedor {
   position: relative;
-  background-image: url(img/ba1.jpg);
-  background-size: 100% 100;
+  background-image: url("img/ba2.jpg");
+  
   color: aliceblue;
   text-align: end;
   padding-top: 25%;
-  padding-bottom: 10;
+ 
   padding-right: 5%;
 }
 
